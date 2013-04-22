@@ -15,7 +15,7 @@ chromosomeNum =  # Chromosome number for chromosome file. I.e.: 1
 testSNPs = []
 
 # Test the script with all SNPs from the chromosome file.
-for i, key in enumerate(snpDB[chromosomeNum].keys()):
+for key in enumerate(snpDB[chromosomeNum].keys()):
     testSNPs.append([chromosomeNum, key])
 
 # Match SNPs to diseases.
