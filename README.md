@@ -1,4 +1,4 @@
-snp2disease
+snp2Disease
 ===========
 
 A simple script to map SNP locations to known OMIM disease loci.
