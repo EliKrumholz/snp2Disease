@@ -1,7 +1,7 @@
 snp2disease
 ===========
 
-A simple script to map SNP locations to known OMIM diseases loci.
+A simple script to map SNP locations to known OMIM disease loci.
 
 Usage:
 ======
