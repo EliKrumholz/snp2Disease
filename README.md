@@ -20,6 +20,7 @@ SNPs are then passed to the snp2Disease function as a two column array. The firs
 Output:
 -------
 The function outputs a dictionary with three keys:
+
 1. 'matchedSNPs' : A dictionary of chromosome numbers : A dictionary of chromosome nucleotide locations : A disease description
 2. 'noOmimSNPs' : A dictionary of chromosome numbers : A list of chromosome locations with no associated OMIM diseases
 3. 'noRsSNPs' : A dictionary of chromosome numbers : A list of chromosome locations with no associated rs identifiers
